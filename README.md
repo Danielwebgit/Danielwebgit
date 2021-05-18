@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Danielwebgit... 
+- 👀 I’m interested in fishing and viola wheel...
+- 🌱 I’m currently learning Software architecture...
+- 📫 Danielwebgit but you can call me Daniel
+
+<!---
+Danielwebgit/Danielwebgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

@@ -16,7 +16,6 @@
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://www.svgrepo.com/show/452054/linux.svg">
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://www.svgrepo.com/show/303425/codeigniter-logo.svg">
   <img align="center" alt="Dani-CSS" height="30" width="30" src="https://cdn.pixabay.com/photo/2023/05/18/01/27/01-27-39-268_960_720.png">
-  <img align="center" alt="Dani-CSS" height="30"  width="40" src="https://cdn.pixabay.com/photo/2023/05/18/01/05/logo-docker-8001177_960_720.png">
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://www.svgrepo.com/show/353423/arduino.svg">
   <img align="center" alt="Dani-CSS" height="30"  width="40" src="https://i.postimg.cc/zBRMm0gn/laravel.png">
 

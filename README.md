@@ -1,8 +1,8 @@
 - 👋 Olá, me chamo Daniel ;) 
 - :notes: Sou apaixonado por violão e moda de viola.
 - :star: Atualmente estou estudadando mais sobre arquitetura de aplicações em micro serviços.
-- :brain: Consigo aprender lendo.
-- :art: Gosto de trabalhar com equipes.
+- :brain: Consigo aprender observando e ouvindo.
+- :art: Gosto de trabalhar em equipe.
 
 <div style="display: inline_block background-color: #fff; background-color: #fff"><br>
 <div style="color: #fff; background-color: #fff">Algumas das tecnologias que trabalho ou que pelo menos já trabalhei no meu dia a dia :alien: </div>

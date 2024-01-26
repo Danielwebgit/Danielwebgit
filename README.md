@@ -15,7 +15,7 @@
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://www.svgrepo.com/show/452242/jquery.svg">
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://www.svgrepo.com/show/452054/linux.svg">
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://www.svgrepo.com/show/303425/codeigniter-logo.svg">
-  <img align="center" alt="Dani-CSS" height="30" width="40" src="http://www.w3.org/2000/svg">
+  <img align="center" alt="Dani-CSS" height="30" width="40" src="https://www.svgrepo.com/show/373966/php.svg">
   <img align="center" alt="Dani-CSS" height="30"  width="40" src="https://i.postimg.cc/zBRMm0gn/laravel.png">
 
 </div>

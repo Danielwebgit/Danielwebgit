@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Daniel ;) 
-- :notes: Sou apaixonado por violão e moda de viola.
+- :notes: Sou apaixonado por programação violão e moda de viola.
 - :star: Atualmente estou estudadando mais sobre arquitetura de aplicações em micro serviços.
 - :brain: Consigo aprender observando e ouvindo.
 - :art: Gosto de trabalhar em equipe.
